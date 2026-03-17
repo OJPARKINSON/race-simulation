@@ -1,3 +1,3 @@
 module github.com/ojparkinson/race-simulation
 
-go 1.25.0
+go 1.26
